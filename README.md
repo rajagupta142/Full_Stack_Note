@@ -130,6 +130,6 @@ This project is licensed under the **MIT License**.
 **Author:** Raja Gupta
 
 * 📌 GitHub: [@rajagupta142](https://github.com/rajagupta142)
-* 📌 LinkedIn: \[Your LinkedIn URL]
-* 📩 Email: \[Your Email Address]
+* 📌 LinkedIn:
+
 ```
