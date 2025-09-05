@@ -121,16 +121,15 @@ npm run dev
 
 ## 📜 License
 
-MIT © 2025 [t3nsor (Digbijaya)](https://github.com/t3nsor)
+This project is licensed under the **MIT License**.
 
 ---
 
 ## 📬 Contact
 
-For business inquiries or feedback, reach out via X (Twitter) [@t3nsor_script](https://twitter.com/t3nsor_script)
+**Author:** Raja Gupta
 
----
-
-> Start taking better notes today with **Diggy Note**!  
-> 📲 [https://full-stack-note-app-ashy.vercel.app/signup](https://full-stack-note-app-ashy.vercel.app/signup)
+* 📌 GitHub: [@rajagupta142](https://github.com/rajagupta142)
+* 📌 LinkedIn: \[Your LinkedIn URL]
+* 📩 Email: \[Your Email Address]
 ```
